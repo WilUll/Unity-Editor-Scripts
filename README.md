@@ -15,6 +15,7 @@
 - Automatically changes the filename of any texture imported into unity to a predetermined name
   - Textures imported will have the name "T_ + **(Name of the folder the texture got imported into)** + **(Ending prefix)**"
 - Changes any normal map imported to the normal filetype
+
 ![TextureImporter](https://user-images.githubusercontent.com/90192382/172851859-a7058606-93e0-4d44-a09f-27c0cc8b34d5.gif)
 
 **Example of the Texture Importer in action**
